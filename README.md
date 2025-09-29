@@ -91,12 +91,12 @@ To uncover trends in life expectancy, population distribution, BMI, and other ke
 
 ---
 
-## 🚀 Explore the Dashboard
+🚀 Explore or Download the Dashboard
 
-Click below to explore the interactive dashboard on Tableau Public:
+You can interact with the full Global Health Dashboard online or, if you feel like it, download the Tableau workbook to explore the data yourself!
 
 🔗 [View on Tableau Public](https://public.tableau.com/shared/M4HKGQHGD?:display_count=n&:origin=viz_share_link/)
-
+📥 Download Workbook
 ---
 
 ## 📥 Dataset Source
