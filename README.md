@@ -12,7 +12,7 @@ Welcome to the **Global Health Insights** project on Tableau Public! This projec
 To uncover trends in life expectancy, population distribution, BMI, and other key health metrics that can assist global organizations in making informed decisions about future health initiatives.
 
 ---
-🖥️ **Dashboard Preview**  
+## 🖥️ **Dashboard Preview**  
 <div class='tableauPlaceholder' id='viz1759149424060' style='position: relative'><noscript><a href='#'><img alt='Global Health insight ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdata_17562987225410&#47;GlobalHealthDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Healthdata_17562987225410&#47;GlobalHealthDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdata_17562987225410&#47;GlobalHealthDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 
 ---
