@@ -95,7 +95,7 @@ To uncover trends in life expectancy, population distribution, BMI, and other ke
 
 Click below to explore the interactive dashboard on Tableau Public:
 
-🔗 [View on Tableau Public](#) (https://public.tableau.com/shared/M4HKGQHGD?:display_count=n&:origin=viz_share_link/)
+🔗 [View on Tableau Public](https://public.tableau.com/shared/M4HKGQHGD?:display_count=n&:origin=viz_share_link/)
 
 ---
 
