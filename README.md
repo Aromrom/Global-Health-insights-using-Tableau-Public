@@ -13,6 +13,9 @@ To uncover trends in life expectancy, population distribution, BMI, and other ke
 
 ---
 
+<div class='tableauPlaceholder' id='viz1759149424060' style='position: relative'><noscript><a href='#'><img alt='Global Health insight ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdata_17562987225410&#47;GlobalHealthDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Healthdata_17562987225410&#47;GlobalHealthDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdata_17562987225410&#47;GlobalHealthDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+
+---
 ## 🧰 Key Visualizations
 
 ### 1️⃣ Life Expectancy by Continent 🗺️
@@ -22,7 +25,6 @@ To uncover trends in life expectancy, population distribution, BMI, and other ke
 - 🔹 **Filter:** Most recent year only  
 - 🔹 **Sort:** Ascending/Descending by life expectancy  
 - 📄 **Worksheet Name:** `Life Expectancy by Continent`
-<img width="1374" height="775" alt="image" src="https://github.com/user-attachments/assets/d1d60ca0-63f7-420c-acc3-9b1b0712df64" />
 
 ---
 
@@ -33,7 +35,6 @@ To uncover trends in life expectancy, population distribution, BMI, and other ke
 - 🔹 **Filter:** Top 5 Countries by Average Life Expectancy  
 - 🔹 **Color:** Country  
 - 📄 **Worksheet Name:** `Life Expectancy Trend`
-<img width="1538" height="785" alt="image" src="https://github.com/user-attachments/assets/4530891a-9ec9-46a1-9b68-518e62b72a47" />
 
 ---
 
@@ -44,7 +45,6 @@ To uncover trends in life expectancy, population distribution, BMI, and other ke
 - 🔹 **Filter:** Single Country (Dropdown), Most recent year  
 - 🔹 **Labels:** % of total population  
 - 📄 **Worksheet Name:** `Population by Gender`
-<img width="1532" height="786" alt="image" src="https://github.com/user-attachments/assets/686c366a-1947-41c7-8df9-50165a97e558" />
 
 ---
 
@@ -56,7 +56,6 @@ To uncover trends in life expectancy, population distribution, BMI, and other ke
 - 🔹 **Detail:** Country  
 - 🔹 **Filter:** Continent (shown)  
 - 📄 **Worksheet Name:** `Life Expectancy vs BMI`
-<img width="1547" height="788" alt="image" src="https://github.com/user-attachments/assets/2acdbf03-7700-46d0-b384-853d8984094e" />
 
 ---
 
@@ -66,7 +65,6 @@ To uncover trends in life expectancy, population distribution, BMI, and other ke
 - 🔹 **Axes:** Average Blood Pressure vs Average Cholesterol  
 - 🔹 **Purpose:** Explore potential correlation between key cardiovascular health metrics  
 - 📄 **Worksheet Name:** `BP vs Cholesterol`
-<img width="1547" height="793" alt="image" src="https://github.com/user-attachments/assets/ffe7290d-fc46-470f-b348-f0227b3ffecf" />
 
 
 ---
@@ -80,12 +78,10 @@ To uncover trends in life expectancy, population distribution, BMI, and other ke
 - Population by Gender  
 - Life Expectancy vs BMI  
 - BP vs Cholesterol
-<img width="1690" height="850" alt="image" src="https://github.com/user-attachments/assets/b8f877be-79ec-47cf-ad84-0c031bd0b043" />
 
 🎛️ **Interactivity:**  
 - Simple filters (e.g., Country, Continent) added where applicable  
 - Filters are applied to relevant worksheets for consistency
-<img width="1704" height="847" alt="image" src="https://github.com/user-attachments/assets/c1446700-c8db-44b3-a175-0f78c777d987" />
 
 
 
